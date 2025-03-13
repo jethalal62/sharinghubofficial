@@ -1,0 +1,24 @@
+{
+  "name": "sharinghub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": [
+    "@supabase/supabase-js",
+    "@videojs/http-streaming",
+    "react",
+    "react-dom",
+    "next",
+    "video.js",
+    "react-icons",
+    "@heroicons/react",
+    "@tailwindcss/forms",
+    "react-multi-carousel",
+    "react-responsive-carousel"
+  ]
+}
